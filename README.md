@@ -1,4 +1,4 @@
-# Siamese-Network
+# Siamese Network
 ## A model that compares two images of famous landmarks to determine if they are of the same place
 ### (If Github doesn't render the Jupyter notebook, it can be viewed here: https://nbviewer.org/github/tzviblonder/Siamese-Network/blob/main/Siamese%20Network.ipynb)
 
